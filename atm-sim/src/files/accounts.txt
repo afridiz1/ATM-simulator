@@ -1,0 +1,6 @@
+1	1	-9.27	2019-04-01T02:44:03.677	LineofCreditAccount	false	18	false	0
+2	1	-9.90	2019-04-01T02:44:06.061	CreditCardAccount	false	20	false	0
+3	1	7.86	2019-04-01T02:44:07.570	PowerSavingAccount	false	18	false	0
+4	1	8.95	2019-04-01T02:44:08.999	SavingAccount	false	19	false	0
+5	1	55.01	2019-04-01T02:44:10.387	ChequingAccount	true	25	true	2
+6	2	0.00	2019-04-01T13:46:41.018	ChequingAccount	false	0	false	0
